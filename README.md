@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **UltraXDZN/UltraXDZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Readme Card](https://github-readme-stats.vercel.app/api?username=UltraXDZN&show_icons=true&count_private=true&theme=radical)
+<br>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=UltraXDZN&count_private=true&theme=radical)
