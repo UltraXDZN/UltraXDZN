@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Readme Card](https://github-readme-stats.vercel.app/api?username=UltraXDZN&show_icons=true&count_private=true&theme=radical&title_color=2fded5)
-<br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=UltraXDZN&count_private=true&theme=radical&title_color=2fded5)
+
+<a href="https://github.com/dimitri-dev">
+  <img height="169px" src="https://github-readme-stats.vercel.app/api?username=UltraXDZN&show_owner=true&line_height=21&hide_border=false&count_private=true&include_all_commits=true&theme=radical&title_color=2fded5" alt="Juraj's GitHub Stats"/>
+  <img height="169px" src="https://github-readme-stats.vercel.app/api/top-langs?username=UltraXDZN&hide=html&hide_border=false&layout=compact&langs_count=7&theme=radical&title_color=2fded5"/>
+</a>
