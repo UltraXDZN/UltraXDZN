@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/UltraXDZN">
   <img height="169px" src="https://github-readme-stats.vercel.app/api?username=UltraXDZN&show_icons=true&show_owner=true&line_height=21&hide_border=false&count_private=true&include_all_commits=true&theme=radical&title_color=2fded5" alt="Juraj's GitHub Stats"/>
-  <img height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraXDZN&hide=html&hide_border=false&layout=compact&langs_count=7&theme=radical&title_color=2fded5"
+  <img height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraXDZN&hide=html&hide_border=false&langs_count=7&theme=radical&title_color=2fded5"
 </a>
 
