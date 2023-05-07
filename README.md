@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working on two game projects: "Mystical Cyrin"
+Currently working on a game project: "Mystical Cyrin" (hiatus)
+
+Learning and mastering Django.
 
 
 ## 🌐 Socials:
