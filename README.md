@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on two game projects: "Mystical Cyrin" and "Yasuke: A Lost Descendant"
+Currently working on two game projects: "Mystical Cyrin"
 
 
 ## 🌐 Socials:
