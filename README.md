@@ -1,9 +1,8 @@
-# 💫 About Me:
-🕹️ Passionate videogame developer
-💻 Full-stack dev with a passion for building sleek, impactful solutions
-🌌 Exploring AI, web tech, game tech, and open-source space
-🐧 Arch Linux + Hyprland User
-
+# 💫 About Me:  
+🕹️ Passionate videogame developer  
+💻 Full-stack dev with a passion for building sleek, impactful solutions  
+🌌 Exploring AI, web tech, game tech, and open-source space  
+🐧 Arch Linux + Hyprland User  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ultraxdzn19) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ultrax_kun) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UltraXDZN) 
