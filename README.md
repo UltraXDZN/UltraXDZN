@@ -20,4 +20,4 @@ in weeks not months.
 Previously: RAG patent-infringement detection @ **Infobip** · CERC 2024 competitor ·
 2nd place Ri-Hack 2024 · published Jumpy Ball mobile game ([Google Play](https://play.google.com/store/apps/details?id=com.Gaser101.JumpyBall&pcampaignid=web_share))
 
-📫 **crljenkojuraj@gmail.com** · Pula, Croatia (CET) · English C2
+📫 **crljenkojuraj@gmail.com** · Pula, Croatia (CET) · English C2 · Japanese (日本語) N4
